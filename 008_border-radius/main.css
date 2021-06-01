@@ -1,0 +1,26 @@
+div {
+  width: 500px;
+  height: 500px;
+  border: 10px solid blue;
+  border-radius: 100%;
+  background-image: url("squirtle.jpg");
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+}
+
+img {
+  border: 30px groove green;
+  border-radius: 100%;
+}
+
+.dog1 {
+  border: 30px double green;
+}
+
+.dog2 {
+  border: 30px dotted green;
+}
+
+.dog3 {
+  border: 30px dashed green;
+}
